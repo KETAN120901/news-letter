@@ -1,0 +1,24 @@
+
+button{
+    background-color: rgb(137, 137, 214);
+    line-height: 1.5rem;
+    
+}
+button:hover{
+    cursor: pointer;
+}
+div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+input{
+    line-height: 1.5rem;
+    
+}
